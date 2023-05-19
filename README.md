@@ -14,7 +14,8 @@ Babynama Care Plans is a mobile application built with Flutter that offers diffe
 
 ## Screenshots
 
-Include screenshots of your app here to showcase its appearance and functionality.
+<img width="189" alt="image" src="https://github.com/ayushkr1701/babynama/assets/102332663/bea55482-cda6-4dec-8e5b-49a2597a626a">
+
 
 ## Getting Started
 
